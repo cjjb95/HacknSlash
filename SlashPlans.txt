@@ -1,0 +1,33 @@
+https://www.youtube.com/watch?v=YGDzRVwmTgM
+Step 1: create camera mode that will change the camera field of view while holding a button //DONE
+
+Step 2: Create Plane, make child of camera, should only be visible in above mode. //DONE
+	Fix bug where player can slightly zoom in and the plane will appear. //DONE
+
+Step 3: implement ezy slice/ any procedural mesh slice in unreal (*MAKE USE OF SLICE PROCEDURAL MESH)
+	1: create array that is composed of object that can be sliced and are  colliding with plane. 
+	2: Make it so when object isn't overlapping/colliding with plane they are removed from array.
+Step 4: Create blend tree and poses 
+
+Limit camera movement while zoomed in.
+
+
+Fix grappling, 
+		- If not looking at something then grappling shouldn't be possible. //DONE
+
+Implement time limit on wall running.
+
+If you run into a wall while wall running automatically end the wall run.
+	On this -> create  a boolean/state machine?
+		   -> while running you can ... run.
+
+Reimplement animations using mixamo.
+Disable movement while player is grappling
+
+
+
+The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+
+
+
+59:29
