@@ -31,3 +31,6 @@ The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Arr
 
 
 59:29
+
+
+Give static mesh to procedural mesh so then the procedural mesh can be picked up by the cutting plane.
