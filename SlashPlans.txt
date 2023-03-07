@@ -34,3 +34,9 @@ The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Arr
 
 
 Give static mesh to procedural mesh so then the procedural mesh can be picked up by the cutting plane.
+
+
+Plans for this week, create heavy and light combos, potential custom combo input?
+Fix first animation in combo, when resetting to static post, it glitches for a moment, need to fidn out why.
+
+Basic enemy ai (pathfinding, health, can take damage)
