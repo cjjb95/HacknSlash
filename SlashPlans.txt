@@ -38,5 +38,15 @@ Give static mesh to procedural mesh so then the procedural mesh can be picked up
 
 Plans for this week, create heavy and light combos, potential custom combo input?
 Fix first animation in combo, when resetting to static post, it glitches for a moment, need to fidn out why.
+//Fixed, ComboMontage had Light01 end partway in second animation.
+
+Fix Root Motion Issue
+
+Create sword trail effect for attacks.
 
 Basic enemy ai (pathfinding, health, can take damage)
+
+Procedural Animation:
+	-Have arm go to correct location when player enters slash mode.
+	- Animate slash (can reuse slash from combo)
+	- Have arm reset location.
