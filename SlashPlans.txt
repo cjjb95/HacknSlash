@@ -50,3 +50,12 @@ Procedural Animation:
 	-Have arm go to correct location when player enters slash mode.
 	- Animate slash (can reuse slash from combo)
 	- Have arm reset location.
+
+---------------------------------------------------
+Animation List:
+Sprint:
+
+Light attack 1, 2, 3
+Heavy Attack 1, 2, 3
+
+Up slash (to send enemy in the air)
