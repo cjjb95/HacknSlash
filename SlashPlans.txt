@@ -59,3 +59,17 @@ Light attack 1, 2, 3
 Heavy Attack 1, 2, 3
 
 Up slash (to send enemy in the air)
+---------------------------------------------------
+
+Enemy ai: 
+Pathfinding, 
+Move towards character
+Attack charactert
+--------------------------------------------------- 
+
+Player:
+Lock on mechanic
+Camera move around character/ cinematic attack
+
+--------------------------------------------------- 
+Level Design
