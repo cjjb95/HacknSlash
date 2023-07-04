@@ -68,8 +68,12 @@ Attack charactert
 --------------------------------------------------- 
 
 Player:
-Lock on mechanic
+Lock on mechanic - DONE
 Camera move around character/ cinematic attack
+Stop Camera from clipping through walls - DONE
+Block movement while attack animation is playing - DONE
+Controller Support
+Grappling Hook - Make line visible
 
 --------------------------------------------------- 
 Level Design
