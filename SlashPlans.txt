@@ -74,7 +74,9 @@ Stop Camera from clipping through walls - DONE
 Block movement while attack animation is playing - DONE
 Fix Slicing Plane - DONE
 Controller Support
-Grappling Hook - Make line visible
+Grappling Hook - Make line visible - DONE
+Grappling Hook - aim animation at grapplig point
+	-setup IK 
 
 --------------------------------------------------- 
 Level Design
