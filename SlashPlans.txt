@@ -62,8 +62,9 @@ Up slash (to send enemy in the air)
 ---------------------------------------------------
 
 Enemy ai: 
-Pathfinding, 
-Move towards character
+Pathfinding, - DONE
+Move towards character - DONE
+Track down sounds - DONE
 Attack charactert
 --------------------------------------------------- 
 
